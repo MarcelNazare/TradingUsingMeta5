@@ -38,10 +38,9 @@ def plot_Onto(data,adx):
 
 plot_Onto(df,adx)
 
-'''
+
 import plotext as plt 
 y = plt.sin()
 plt.scatter(y)
 plt.title("scatter plot")
 plt.show()
-'''
