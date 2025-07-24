@@ -1,0 +1,7 @@
+[project]
+name = "tradingusingmeta5"
+version = "0.1.0"
+description = "This project is a Python-based tool that connects to the MetaTrader5 trading platform to retrieve historical financial data, perform basic technical analysis using the ADX (Average Directional Index) indicator, and save the results in a CSV file. It allows users to select trading symbols and timeframes interactively and is designed for traders and analysts looking to automate market data collection and analysis."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
